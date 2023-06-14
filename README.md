@@ -1,2 +1,2 @@
-# til
+# TIL
 Just a TIL
